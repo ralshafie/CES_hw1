@@ -24,5 +24,5 @@ We used soldering techniques to create an electrical connection between our ESP3
 I soldered the wires of the battery to the connection wires that came with the ESP32, connecting the negative and positive ones together. Beware not to fray the tips of the wire too much if you strip the protector, as soldering over it will not fix the connection and the battery will not power. Additionally, check if the battery works before you melt the heat shrinks as to avoid more material to break through when repeating the soldering
 
 The final product takes this form:
-<img src="https://user-images.githubusercontent.com/67122420/154198227-d2a62495-65ed-44d3-85b7-c1d29c736a3e.jpeg" width=300 height=100>
+<img src="https://user-images.githubusercontent.com/67122420/154198227-d2a62495-65ed-44d3-85b7-c1d29c736a3e.jpeg" width=300 height=300>
 
