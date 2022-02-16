@@ -19,10 +19,10 @@ There are about 3 main sections to the code for this exhibition:
 
 We used soldering techniques to create an electrical connection between our ESP32 devices and the batteries we were given. This is to power our ESP32’s wirelessly for the art installation. Be sure that your battery is fully charged before a wireless installation by connecting the device to the battery while also connecting the device to a laptop or other power source. 
 
-<img src="https://user-images.githubusercontent.com/67122420/154197793-b28af18e-1103-4ec2-80d0-31c16a99c762.jpeg" width = 100 heighht = 10>
+<img src="https://user-images.githubusercontent.com/67122420/154197793-b28af18e-1103-4ec2-80d0-31c16a99c762.jpeg" width = 300 heighht = 30>
 
 I soldered the wires of the battery to the connection wires that came with the ESP32, connecting the negative and positive ones together. Beware not to fray the tips of the wire too much if you strip the protector, as soldering over it will not fix the connection and the battery will not power. Additionally, check if the battery works before you melt the heat shrinks as to avoid more material to break through when repeating the soldering
 
 The final product takes this form:
-<img src="https://user-images.githubusercontent.com/67122420/154198227-d2a62495-65ed-44d3-85b7-c1d29c736a3e.jpeg" width=100 height=10>
+<img src="https://user-images.githubusercontent.com/67122420/154198227-d2a62495-65ed-44d3-85b7-c1d29c736a3e.jpeg" width=300 height=100>
 
