@@ -25,5 +25,5 @@ I soldered the wires of the battery to the connection wires that came with the E
 
 The final product takes this form:
 
-<img src="https://user-images.githubusercontent.com/67122420/154198227-d2a62495-65ed-44d3-85b7-c1d29c736a3e.jpeg" width=300 height=500>
+<img src="https://user-images.githubusercontent.com/67122420/154198227-d2a62495-65ed-44d3-85b7-c1d29c736a3e.jpeg" width=300 height=600>
 
